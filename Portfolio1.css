@@ -271,6 +271,22 @@ body {
   line-height: 1.8;
 }
 
+.contact-phone {
+  margin-bottom: 28px;
+  font-size: 18px;
+  color: #555;
+}
+
+.contact-phone a {
+  color: #b8904f;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.contact-phone a:hover {
+  color: #d6b16a;
+}
+
 /* FOOTER */
 
 .footer {
